@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="string_bt1">1</string>
+    <string name="string_bt2">2</string>
+    <string name="string_bt3">3</string>
+    <string name="string_bt4">4</string>
+    <string name="string_bt5">5</string>
+    <string name="string_bt6">6</string>
+    <string name="string_bt7">7</string>
+    <string name="string_bt8">8</string>
+    <string name="string_bt9">9</string>
+    <string name="string_bt0">0</string>
+    <string name="string_btPlus">+</string>
+    <string name="string_btMinus">-</string>
+    <string name="string_btMultiply">*</string>
+    <string name="string_btDivide">÷</string>
+    <string name="string_btEqually">=</string>
+    <string name="string_btDot">.</string>
+    <string name="string_btClear">C</string>
+    <string name="string_btBack">⌫</string>
+
+</resources>
